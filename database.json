@@ -1,0 +1,14 @@
+{
+    "films": [
+        {
+            "id": 1,
+            "title": "Matrix",
+            "image": "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/f2e7827a-4ba9-4911-b8c1-819738b2026c/orig"
+        },
+        {
+            "id": 2,
+            "title": "Inconceivable",
+            "image": "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/4a7e4084-2fe9-448e-9ab9-d533a7c4ea3a/1920x"
+        }
+    ]
+}
