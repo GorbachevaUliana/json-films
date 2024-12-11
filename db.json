@@ -9,6 +9,81 @@
             "id": 2,
             "title": "Inconceivable",
             "image": "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/4a7e4084-2fe9-448e-9ab9-d533a7c4ea3a/1920x"
+        },
+        {
+            "id": 3,
+            "title": "The big lebowski",
+            "image": "https://avatars.mds.yandex.net/get-mpic/4034372/2a0000018b436c69d6629975e49beae9c3ae/orig"
+        },
+        {
+            "id": 4,
+            "title": "Zobieland",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTkxOTMyMDI0MV5BMl5BanBnXkFtZTcwODU0OTk1Mw@@._V1_.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Friday the 13th",
+            "image": "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/9a290260-10b7-4290-af4f-9f6b5f6d278f/orig"
+        },
+        {
+            "id": 6,
+            "title": "Point Break",
+            "image": "https://i.pinimg.com/originals/70/a4/01/70a40195cc28b90760f6bb9fb2849991.jpg"
+        },
+        {
+            "id": 7,
+            "title": "The shining",
+            "image": "https://i.pinimg.com/736x/79/65/97/7965970efc2d4a2751a92d0520733af9.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Polaroid",
+            "image": "https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/1d9e556b-7410-48be-a7ef-80e551f93b04/1920x"
+        },
+        {
+            "id": 9,
+            "title": "Alien",
+            "image": "https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/febf41e0-8eb3-4d53-87db-bedaee597487/1920x"
+        },
+        {
+            "id": 10,
+            "title": "Joker",
+            "image": "https://avatars.mds.yandex.net/i?id=00891df374b8051938ee44ff12051e06_l-9100837-images-thumbs&n=13"
+        },
+        {
+            "id": 11,
+            "title": "Pioneer",
+            "image": "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/35aa0ae8-4406-4393-abe3-acc3e2a389ea/orig"
+        },
+        {
+            "id": 12,
+            "title": "It",
+            "image": "https://u.livelib.ru/reader/naya1996/o/s3utr7xk/o-o.jpeg"
+        },
+        {
+            "id": 13,
+            "title": "The broken",
+            "image": "https://m.media-amazon.com/images/M/MV5BNTc2MzM0MDI1Ml5BMl5BanBnXkFtZTcwMTA4MDYyMg@@._V1_FMjpg_UX1000_.jpg"
+        },
+        {
+            "id": 14,
+            "title": "Kill Bill",
+            "image": "https://avatars.mds.yandex.net/i?id=1bea80958d5c2395256e6142947c3a65_l-4240956-images-thumbs&n=13"
+        },
+        {
+            "id": 15,
+            "title": "King's Man",
+            "image": "https://www.kino-teatr.ru/movie/poster/135198/101272.jpg"
+        },
+        {
+            "id": 16,
+            "title": "Carrie",
+            "image": "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/75984beb-fce3-47c3-a8d8-d49728397a58/orig"
+        },
+        {
+            "id": 17,
+            "title": "Replicas",
+            "image": "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/50ff8cc1-f15c-42a2-b89c-048d9d474b9a/1920x"
         }
     ]
 }
